@@ -1,6 +1,9 @@
 # CS-PROYECTO-FINAL
 Huella ambiental
 
+![huelasasd](https://github.com/user-attachments/assets/39615717-2f22-4a1e-a584-63a96b8b4f06)
+
+
 Teniendo en cuenta variables como el transporte,  el consumo energético, la alimentación y el tratamiento de residuos, podrás obtener de forma precisa tú impacto ambiental... 📊♻️ y así adquirir una actitud participativa en la mejora de nuestro medio ambiente.🌍  🔋⚡ 🔄🔌
 
 
