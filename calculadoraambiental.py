@@ -1,39 +1,4 @@
-{
-  "nbformat": 4,
-  "nbformat_minor": 0,
-  "metadata": {
-    "colab": {
-      "provenance": [],
-      "authorship_tag": "ABX9TyMUMs5cxA8K5ZLn7jKeHTi5",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "name": "python3",
-      "display_name": "Python 3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/MarD100/CS-PROYECTO-FINAL/blob/main/calculadoraambiental.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "mN-9Q2BPFK7i"
-      },
-      "outputs": [],
-      "source": [
+
         "def calcular_huella_completa():\n",
         "    print(\"Calculadora de Huella Ambiental Completa 🌱\\n\")\n",
         "\n",
